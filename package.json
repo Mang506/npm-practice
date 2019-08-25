@@ -1,0 +1,27 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mang506/npm-practice.git"
+  },
+  "author": "Matthew Rubly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mang506/npm-practice/issues"
+  },
+  "homepage": "https://github.com/Mang506/npm-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
